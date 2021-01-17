@@ -3,7 +3,9 @@ public class Klient{
         magda badz grzeczna , i postaraj się mnie nie denerwować?, czy to jest możliwe ?
     }
 }
+ class Nowa{
 
+ }
 
 
 
