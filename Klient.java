@@ -4,7 +4,7 @@ public class Klient{
     }
 }
  class Nowa{
-
+    Piotrek jak myślisz jaki samochód chciałą by Magda?
  }
 
 
